@@ -1,0 +1,28 @@
+Snake
+Ladder
+Board
+Players
+
+
+
+Player(s)
+they are the ones who rolls the dice and move accordingly on the board
+
+Board
+10*10 positioned board numbered from 1 to 100
+each position can either have a snake or a ladder's head or tail in it. Player moves on positions in the board.
+
+
+Ladder
+has 2 ends. it is used to climb up the board from lower value end to higher value end.
+
+Snake
+has 2 ends. It is used to climb down the board from higher value end to lower value end.
+
+
+Rules:
+2 or more players are necessary
+
+A Player takes turn to roll the dice to get a number from 1 to 6.
+player moves in the corresponding position on the board. If he encounters a snake, he goes to its tail. If he encounters a ladder he goes to its head. The first one to reach the 100th position wins the game
+
